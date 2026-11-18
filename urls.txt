@@ -1,0 +1,11 @@
+Aplicación en Render:
+https://eventosrest-4cki.onrender.com
+
+Ejemplos:
+https://eventosrest-4cki.onrender.com/recintos
+https://eventosrest-4cki.onrender.com/eventos
+
+Repositorio en GitHub:
+https://github.com/bari1909/EventosREST
+
+Nota: la primera petición puede tardar unos 50 segundos porque el plan gratuito de Render se duerme si no se usa.
